@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "label": "Guerra"
+  },
+  {
+    "id": 2,
+    "label": "Luta"
+  },
+  {
+    "id": 3,
+    "label": "RPG"
+  },
+  {
+    "id": 4,
+    "label": "Fazenda"
+  }
+]
